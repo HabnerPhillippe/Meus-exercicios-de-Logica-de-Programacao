@@ -1,0 +1,147 @@
+Número 15. 
+Variáveis: M, V, e N
+Dentro do comando de saída: Bom dia, Boa tarde, Boa noite e Valor inválido
+Qual turno você estuda?
+M --> Bom dia
+V --> Boa tarde
+N --> Boa noite
+Senao --> Valor inválido
+
+
+
+Número 14.
+Escreva um número: = 'A' 
+Escreva outro número: = 'B'
+Escreva o terceiro número: = 'C'  
+Se 'A' for maior ou igual a 'B' e 'A' maior ou igual a 'C' e 'B' maior ou igual a 'C'
+Escreva 'A, B, C' 
+Caso 'A' seja maior ou igual a 'B' e 'A' maior ou igual a 'C' e 'C' maior ou igual a 'B' 
+Escreva 'A, C, B
+Ou se 'B' for maior ou igual a 'A' e 'B' maior ou igual 'C' e 'A' maior ou igual a 'A'
+Escreva 'B, A, C'
+E assim por diante...
+
+Número 13. 
+Escolher variáveis e seu tipo- real valor1, valor2, valor3 / cadeia p1, p2, p3
+Escolher primeiro os produtos e depois seus valores
+Criar condições que satisfaça o problema para encontrar o produto mais barato.
+ 
+Número 12.
+Escolher variáveis e seu tipo- real n1, n2, n3
+Escolher três números
+Criar condições que satisfaça o problema e encontrar o maior número e menor número.
+
+ 
+Número 11.
+Escolher variáveis e seu tipo- real n1, n2, n3
+Escolher três números
+Criar condições que satisfaça o problema e encontrar o maior número.
+ 
+Número 10.
+Atribua a altura da pessoa- variável- H
+Atribua o peso- variável- P
+Atribua se a pessoa é mulher ou homem
+Depois jogar o valor atribuído na fórmula: (72.7*altura) - 58 (10)
+Depois entrar nas condições, se for mulher usar a fórmula escolhida da questão 
+(62.1*h) - 44.7 , senão, usar a do homem, (72.7*h) - 58.  
+
+ 
+ 
+Número 9.
+1    2   1.5
+Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: 9
+o produto do dobro do primeiro com metade do segundo .
+a soma do triplo do primeiro com o terceiro.
+o terceiro elevado ao cubo.
+
+
+
+-Escolher dois números inteiros
+Dobro do primeiro número, dividir o segundo número 
+Depois vai multiplicar o primeiro número com a metade do segundo
+-Agora o número 1 que foi escolhido e será triplicado com terceiro
+(1 * 3) + 1.5= 3.375
+1.5 e elevar a três 
+Número 8.
+Primeiro se recebe o número de temperatura em Celsius que a pessoa deseja saber a conversão em Farenheit, 
+com o recebimento do tal número se faz um cálculo baseado na fórmula de:F = (C * 1.8) + 32. 
+Ex: a pessoa falou 30. A conversão em Celsius fica em : 86,0
+
+
+ 
+Número 7.
+Primeiro se recebe o número de temperatura em Farenheit que a pessoa deseja saber a conversão em celsius, 
+com o recebimento do tal número se faz um cálculo baseado na fórmula de:C= 5 * (F-32) / 9. Ex: a pessoa falou 20.
+A conversão em farenheit fica em :-6,66
+
+
+ 
+Número 6. 
+Primeiro se pergunta quanto a pessoa ganha por cada hora trabalhada
+Em seguida, se questiona quantas horas essa mesma pessoa trabalhou no mês. 
+Por fim, se faz um cálculo multiplicando o dinheiro ganho por cada hora pelo total de horas úteis no mês. 
+Ex: 5.60*168= 940.8
+
+ 
+ 
+Número 5.
+CÁLCULO DOBRO ÁREA DE UM QUADRADO
+VARIAVEL
+REAL, LADO, ÁREA2 
+ESCREVA("O LADO DO QUADRADO EM METROS",5)
+LEIA(LADO)
+ÁREA2 = (LADO* 4).2 -> 40 M
+//ENTÃO.. Como ele pede o dobro da área , 2* 20m//
+LEIA(ÁREA2)
+ESCREVA ("O DOBRO DESTÁ ÁREA É:,ÁREA2)
+
+
+ 
+Número 4.
+Cálculo área do círculo
+Variavel 
+REAL RAIO, ÁREA
+ESCREVA("RAIO DA CIRCUNFERENCIA",4)
+LEIA(RAIO)
+AREA = (PI.RAIO^2)
+LEIA(AREA)
+ESCREVA(AREA)
+PI.16 ou considerando pi=3.14 ->50.24
+ 
+ 
+ 
+Número 3. 
+Variavel
+REAL METRO, CENT
+"CONVERSOR DE METROS PARA CENTIMETROS"
+INSIRA UM VALOR: 2 "metros"
+LEIA(METRO)
+CENT = 100*(METRO)
+LEIA(CENT)
+ESCREVA(CENT,"centimetros")
+200 centimetros 
+
+
+ 
+Número 2.
+VARIAVEL
+REAL, NOTA1,NOTA2,NOTA3,NOTA4,MEDIA
+INSIRA AS NOTAS:
+NOTA1:7
+NOTA2:5
+NOTA3:9
+NOTA4:6
+MEDIA = (NOTA1+NOTA2+NOTA3+NOTA4)/4
+LEIA(MEDIA)
+ESCREVA(MEDIA)
+MEDIA : 6.25
+
+
+ 
+Número 1.
+VARIAVEL 
+INTEIRO SOM, N1,N2 
+INSIRA DOIS NÚMERO:
+N1: 10
+N2: 5
+N1 + N2 = 15
